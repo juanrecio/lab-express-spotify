@@ -1,0 +1,16 @@
+body{
+  background:url("/images/home-background.jpeg") no-repeat;
+  background-size:cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.artist-search-form form{
+  display:flex;
+  flex-flow: column;
+  justify-content: center;
+  flex-grow: inherit;
+}
